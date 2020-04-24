@@ -1,0 +1,9 @@
+components:
+  schemas:
+    FruitType:
+      type: string
+      description: 'fruit types'
+      enum:
+      - BANANA
+      - APPLE
+      - CHERRY   
