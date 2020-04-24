@@ -110,8 +110,8 @@
 
                 <dependencies>
                     <dependency>
-                        <groupId>test</groupId>
-                        <artifactId>template</artifactId>
+                        <groupId>com.github.attiand.test</groupId>
+                        <artifactId>openapi-template</artifactId>
                         <version>0.0.1-SNAPSHOT</version>
                     </dependency>
                 </dependencies>
